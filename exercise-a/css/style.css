@@ -1,0 +1,24 @@
+.header {
+
+   background-color: darkgrey; 
+   font-weight: 300;
+   font-family: Roboto, sans-serif;
+   text-align: center;
+
+}
+
+thead {
+        height: Zrem;
+        text-align:left;
+        color:green;
+        background-color:lightgray;
+    }
+
+table {
+    table-layout: auto;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    border-collapse: collapse;
+
+}
