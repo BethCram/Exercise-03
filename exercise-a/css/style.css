@@ -1,9 +1,15 @@
-.header {
+header, thead, table {
+    padding: .5em;
+    border-bottom: 1px, solid, #d3d3d3;
+}
+
+header {
 
    background-color: darkgrey; 
    font-weight: 300;
    font-family: "Roboto", sans-serif;
    text-align: center;
+   
 
 }
 
@@ -12,6 +18,7 @@ thead {
         text-align:left;
         color:green;
         background-color:lightgray;
+       
     }
 
 table {
@@ -20,5 +27,5 @@ table {
     margin-right: auto;
     width: 50%;
     border-collapse: collapse;
-
+   
 }
