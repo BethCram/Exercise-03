@@ -2,13 +2,13 @@
 
    background-color: darkgrey; 
    font-weight: 300;
-   font-family: Roboto, sans-serif;
+   font-family: "Roboto", sans-serif;
    text-align: center;
 
 }
 
 thead {
-        height: Zrem;
+        height: 2rem;
         text-align:left;
         color:green;
         background-color:lightgray;
