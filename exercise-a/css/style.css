@@ -35,6 +35,6 @@ table {
     border-collapse: collapse;
   
 }
-td:nth-child( ) {background-color: #eee}
+tr:nth-child(even) {background-color: #eee}
 tr:hover {background-color: pink;}
  
