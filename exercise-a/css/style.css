@@ -31,8 +31,5 @@ table {
    
 }
 
-     tbody:nth-child( ) {background-color: #eee;}
-     tbody:hover {background-color: pink;}
-    
-
-
+tr:hover {background-color: pink;}
+tr:nth-child(even) {background-color: #eee;}
