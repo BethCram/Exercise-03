@@ -13,6 +13,9 @@ header {
 
 }
 
+td:nth-child(even) {background-color: #eee}
+td:hover {background-color: pink;}
+
 thead {
         height: 2rem;
         text-align:left;
@@ -30,5 +33,3 @@ table {
     
    
 }
-td:nth-child(even) {background-color: #eee}
-td:hover {background-color: pink;}
