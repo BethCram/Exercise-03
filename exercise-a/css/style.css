@@ -27,5 +27,13 @@ table {
     margin-right: auto;
     width: 50%;
     border-collapse: collapse;
+    
    
 }
+
+ td {
+    }   td:nth-child(even) {background-color: #eee;}
+    td:hover {background-color: pink;}
+    
+
+
