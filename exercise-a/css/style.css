@@ -31,8 +31,8 @@ table {
    
 }
 
-     td:nth-child( ) {background-color: #eee;}
-     td:hover {background-color: pink;}
+     tbody:nth-child( ) {background-color: #eee;}
+     tbody:hover {background-color: pink;}
     
 
 
